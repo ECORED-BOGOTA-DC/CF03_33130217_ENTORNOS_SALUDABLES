@@ -1,19 +1,262 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: zoom 5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    bottom: 1%
+    left: 31%
+    width: 13%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    top: 7%
+    left: 5%
+    width: 18%
+  &-3
+    animation: vanish 5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 7%
+    left: 5%
+    width: 18%
+  &-4
+    animation: rotation 5s ease-in-out infinite alternate
+    position: absolute
+    top: 55%
+    right: 16%
 
 
-@keyframes float1
+@keyframes vanish
   0%
-    transform: translateY(20px)
-
+    opacity: 0
   100%
-    transform: translateY(0px)
+    opacity: 1
+  
+@keyframes zoom
+  0%
+    transform: scale(1)
+  100%
+    transform: scale(1.3)
+  
+@keyframes rotation
+  0%
+    transform: rotate(0deg)
+  50%
+    transform: rotate(180deg)
+  100%
+    transform: rotate(360deg)
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img01.png") !important
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BGIMG02
+  background-image: url("../assets/curso/fondos/img02.png")
+
+.BGIMG01, .BGIMG02
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGM01, .BGM02, .BGM08
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+  
+.acordion__accion__btn--a i, .linea-tiempo-c__header__btn--left i, .linea-tiempo-c__header__btn--right i
+  color: $white
+
+.tabs-c.color-acento-botones .tabs-c__tab--active
+  font-weight: 900
+
+.BGM01
+  background: linear-gradient(to bottom, #EFFAF0, #EFFAF0, #FFF)
+
+.BG02, .BGM02
+  background-color: #EFFAF0
+
+.BGR03
+  background-color: #E5E9EA
+
+.BGR04
+  background-color: #A1DFF4
+
+.BGR05
+  background-color: #F6F6F6
+
+.BGR05.acordion__activo
+  background-color: #F6FFF7
+
+.BG06, .arrow-down.BGR06, .arrow-right.BG06
+  background-color: #92DF98
+
+.arrow-right.BG06
+  &::after
+    border-right: 37px solid #92DF98
+    border-top: 37px solid #92DF98
+    border-left: 37px solid transparent
+    border-bottom: 37px solid transparent
+
+.BG07
+  background-color: #D9EEDA
+
+.BGM08, .BGR08, .arrow-right.BG08
+  background-color: #F3F9FF
+
+.arrow-right.BG08
+  &::after
+    border-right: 35px solid #F3F9FF
+    border-top: 35px solid #F3F9FF
+    border-left: 35px solid transparent
+    border-bottom: 35px solid transparent
+  
+.arrow-right.BG09
+  background-color: #DEF3DF
+  &::after
+    border-right: 35px solid #DEF3DF
+    border-top: 35px solid #DEF3DF
+    border-left: 35px solid transparent
+    border-bottom: 35px solid transparent
+  
+.arrow-right.BG10
+  background-color: #BBD2F0
+  &::after
+    border-right: 35px solid #BBD2F0
+    border-top: 35px solid #BBD2F0
+    border-left: 35px solid transparent
+    border-bottom: 35px solid transparent
+  
+.arrow-right.BG11
+  background-color: #CEEAF4
+  &::after
+    border-right: 35px solid #CEEAF4
+    border-top: 35px solid #CEEAF4
+    border-left: 35px solid transparent
+    border-bottom: 35px solid transparent
+  
+.BGR12
+  background-color: #59BEE2
+
+.BG13
+  background-color: #C8E3CA
+
+.BGR14
+  background-color: transparent
+  border: 4px solid #92DF98
+  
+.bloque-texto-b.color-acento-contenido:before
+  background-color: #D9EAFA
+
+.acordion__accion__btn--a, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right
+  background-color: $color-acento-botones
+
+.tabs-a__tab:last-child
+  background-color: #E8E8E8
+
+.BGIMG02, .BGR03, .BGR04, .BGR08, .BGR14
+  border-radius: 10px
+
+.BGR06
+  border-radius: 30px
+
+.BGR12
+  border-radius: 40px 40px 0 40px
+
+.tabla-b td, .tabla-c td, .tabla-b th, .tabla-c th
+  padding: 10px 20px
+
+.lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li
+  display: flex
+
+.zindex-1
+  z-index: 1
+
+.zindex-2
+  z-index: 2
+
+.img-inv .bloque-texto-g__img
+  left: 60%
+  width: 45%
+  @media (max-width: $bp-max-md)
+    left: 0
+    width: 100%
+
+.img-inv .bloque-texto-g__texto
+  right: 36%
+  width: 65%
+  @media (max-width: $bp-max-md)
+    right: 0
+    width: 100%
+
+.img-01
+  position: absolute
+  left: 14%
+  @media (max-width: $bp-max-xl)
+    left: 10%
+  @media (max-width: $bp-max-lg)
+    left: 9%
+  @media (max-width: $bp-max-md)
+    position: relative
+    left: 0
+  
+.img-02
+  position: absolute
+  left: 200px
+  @media (max-width: $bp-max-md)
+    position: relative
+    left: 0
+  
+.img-03
+  position: absolute
+  left: 46%
+  @media (max-width: $bp-max-lg)
+    left: 52%
+  @media (max-width: $bp-max-md)
+    position: relative
+    left: 0
+  
+.arrow-down
+  float: left
+  position: relative
+  &::after
+    position: absolute
+    width: 0
+    height: 0
+    right: 3%
+    bottom: -20%
+    border-right: 30px solid #92DF98
+    border-top: 30px solid #92DF98
+    border-left: 30px solid transparent
+    border-bottom: 30px solid transparent
+    content: ''
+  
+.arrow-right
+  float: left
+  position: relative
+  &::after
+    content: ''
+    display: block
+    position: absolute
+    top: 50%
+    right: -4.5%
+    width: 65px
+    height: 65px
+    transform: translate(5px, -50%) rotate(45deg)
+    @media (max-width: $bp-max-xl)
+      right: -5.0%
+    @media (max-width: $bp-max-lg)
+      right: -5.5%
+    @media (max-width: $bp-max-md)
+      right: -4.5%
+    
+.arrow-tittle
+  float: left
+  position: relative
+  &::after
+    position: absolute
+    width: 0
+    height: 0
+    right: 0
+    border-right: 20px solid #59BEE2
+    border-top: 20px solid #59BEE2
+    border-left: 20px solid transparent
+    border-bottom: 20px solid transparent
+    content: ''
