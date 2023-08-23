@@ -16,7 +16,7 @@
       
       figure.mb-5(data-aos="zoom-in")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/391eAU5cmHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
@@ -73,8 +73,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Esquema para la presentación de cada componente
-                  p.mb-0 En el siguiente enlace, en la página 110 del manual del sistema territorial, facilitado por el Ministerio de Salud y Protección Social, se visualiza el formato o esquema en el cual se debe registrar la información requerida para conocer los datos fuentes:
+                  h4.mb-1 Manual de gestión territorial
+                  p.mb-0 En el siguiente enlace, en la página 110 del Manual de gestión territorial, facilitado por el Ministerio de Salud y Protección Social, se visualiza el formato o esquema en el cual se debe registrar la información requerida para conocer los datos fuentes:
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/manual-de-gestion-territorial-de-la-ees.pdf" target="_blank")
                     span Descargar
@@ -96,7 +96,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Herramientas para la caracterización y seguimiento
+                  h4.mb-1 Herramientas para caracterización y seguimiento de las condiciones socio-ambientales y sanitarias de los entornos
                   p.mb-0 En el siguiente documento, encuentra información sobre las herramientas a aplicar para la caracterización y seguimiento, teniendo en cuenta las condiciones socioambientales y sanitarias:
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/herramientas-para-caracterizacion-y-seguimiento-de-las-condiciones-socio-ambientales-y-sanitarias-de-los-entornos.pdf" target="_blank")
@@ -230,7 +230,7 @@
     .row.justify-content-center.mb-5
       .col-lg-6
         .titulo-sexto.color-primario(data-aos="fade-right")
-          h5 Figura 1
+          h5 Figura 1.
           span Módulos de la encuesta
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img09.svg' alt="Imagen decorativa")

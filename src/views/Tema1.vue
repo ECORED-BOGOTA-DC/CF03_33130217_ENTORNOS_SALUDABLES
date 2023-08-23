@@ -38,7 +38,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-primario(data-aos="fade-right")
-          h5 Tabla 1
+          h5 Tabla 1.
           span Componentes de la operación de los entornos
         .tabla-a.color-secundario.mb-5 
           table(data-aos="zoom-in"  alt="Texto alternativo tabla")
@@ -55,10 +55,10 @@
                 td(style="border: 1px solid #D3D3D3")
                   ol.lista-ol
                     li(style="display: flex") 
-                      span.text-bold 1.1.
+                      span.text-bold 1.1
                       | Formulación, implementación, adopción, consolidación, seguimiento y evaluación de políticas.
                     li(style="display: flex") 
-                      span.text-bold 1.2.
+                      span.text-bold 1.2
                       | Armonización y articulación de políticas e instrumentos (nacionales, territoriales, institucionales).
               tr
                 th(style="border: 1px solid #D3D3D3").text-center 2
@@ -66,13 +66,13 @@
                 td(style="border: 1px solid #D3D3D3")
                   ol.lista-ol
                     li(style="display: flex") 
-                      span.text-bold 2.1.
+                      span.text-bold 2.1
                       | Implementación y fortalecimiento de estrategias de promoción de espacios físicos, sociales y ambientales seguros, incluyentes, equitativos y sostenibles.
                     li(style="display: flex") 
-                      span.text-bold 2.2.
+                      span.text-bold 2.2
                       | Consolidación y acuerdos intersectoriales para la promoción de entornos saludables.
                     li(style="display: flex") 
-                      span.text-bold 2.3.
+                      span.text-bold 2.3
                       | Coordinación y articulación para la gestión de infraestructuras, bienes y servicios seguros, incluyentes y sostenibles.
               tr
                 th(style="border: 1px solid #D3D3D3").text-center 3
@@ -80,16 +80,16 @@
                 td(style="border: 1px solid #D3D3D3")
                   ol.lista-ol
                     li(style="display: flex") 
-                      span.text-bold 3.1.
+                      span.text-bold 3.1
                       | Identificación y análisis de necesidades, brechas y potencialidades sociales y de salud para la promoción de entornos saludables.
                     li(style="display: flex") 
-                      span.text-bold 3.2.
+                      span.text-bold 3.2
                       | Gestión para la dinamización de respuestas integrales e integradas.
                     li(style="display: flex") 
-                      span.text-bold 3.3.
+                      span.text-bold 3.3
                       | Fortalecimiento de redes y alianzas estratégicas para dinamización de respuestas integrales.
                     li(style="display: flex") 
-                      span.text-bold 3.4.
+                      span.text-bold 3.4
                       | Fortalecimiento de las entidades territoriales.
               tr
                 th(style="border: 1px solid #D3D3D3").text-center 4
@@ -97,13 +97,13 @@
                 td(style="border: 1px solid #D3D3D3")
                   ol.lista-ol
                     li(style="display: flex") 
-                      span.text-bold 4.1.
+                      span.text-bold 4.1
                       | Diseño e implementación de procesos de información y herramientas de educación y comunicación.
                     li(style="display: flex") 
-                      span.text-bold 4.2.
+                      span.text-bold 4.2
                       | Coordinación de acciones sectoriales e intersectoriales orientadas a generar procesos de formación.
                     li(style="display: flex") 
-                      span.text-bold 4.3.
+                      span.text-bold 4.3
                       | Fortalecimiento de capacidades institucionales para el desarrollo de procesos formativos.
               tr
                 th(style="border: 1px solid #D3D3D3").text-center 5
@@ -111,13 +111,13 @@
                 td(style="border: 1px solid #D3D3D3")
                   ol.lista-ol
                     li(style="display: flex") 
-                      span.text-bold 5.1.
+                      span.text-bold 5.1
                       | Fortalecimiento de capacidades individuales, colectivas, institucionales para el ejercicio de la ciudadanía.
                     li(style="display: flex") 
-                      span.text-bold 5.2.
+                      span.text-bold 5.2
                       | Gestión para el fortalecimiento de la participación social en los 31 espacios y mecanismos establecidos.
                     li(style="display: flex") 
-                      span.text-bold 5.3.
+                      span.text-bold 5.3
                       | Conformación y/o fortalecimiento de redes o grupos de gestión para la movilización y el control social.
               tr
                 th(style="border: 1px solid #D3D3D3").text-center 6
@@ -125,13 +125,13 @@
                 td(style="border: 1px solid #D3D3D3")
                   ol.lista-ol
                     li(style="display: flex") 
-                      span.text-bold 6.1.
+                      span.text-bold 6.1
                       | Articulación con sectores y actores públicos, privados, académicos, ONGs y comunitarios para la difusión, gestión y/o construcción del conocimiento.
                     li(style="display: flex") 
-                      span.text-bold 6.2.
+                      span.text-bold 6.2
                       | Sistematización y apropiación de conocimientos enmarcados en los principios de la investigación social.
                     li(style="display: flex") 
-                      span.text-bold 6.3.
+                      span.text-bold 6.3
                       | Investigación e innovación social.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -143,7 +143,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Componentes de los entornos saludables
+                  h4.mb-1 Componentes de los entornos saludables2
                   p.mb-0 En el video “Componentes de los entornos saludables”, se describen cada uno de los componentes de manera concreta, con sus principales características:
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://youtu.be/gknpxVuqG3I" target="_blank")
@@ -161,7 +161,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Lineamiento de los entornos nacionales
+                  h4.mb-1 Lineamientos nacionales de entornos
                   p.mb-0 En el siguiente documento suministrado por el Ministerio de Salud, en su página 25, está dispuesta esta información de manera detallada, revísela con detalle:
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/lineamientos-entornos-nacionales-2016.pdf#" target="_blank")

@@ -131,7 +131,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Ficha para la descripción del indicador
+                  h4.mb-1 Indicadores de salud: aspectos conceptuales y operativos (anexo)
                   p.mb-0 En el siguiente enlace, se evidencia la ficha para la descripción del indicador, donde están todos los campos que componen la ficha; de igual manera, en la página 2, se encuentra un modelo para poder comprender de mejor manera una ficha diligenciada:
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://www3.paho.org/hq/index.php?option=com_content&view=article&id=14413" target="_blank")
@@ -211,7 +211,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-primario(data-aos="fade-right")
-          h5 Figura 3
+          h5 Figura 3.
           span Esquema para la presentación de una acción orientada a mejorar las condiciones socioambientales y sanitarias de los entornos y prevenir su deterioro
         table(data-aos="zoom-in"  alt="Texto alternativo tabla")
           caption Nota. <a style="font-weight: 400">MinSalud (2009).</a>
@@ -346,7 +346,7 @@
                 | Garantizar la idoneidad del recurso humano y capacidad técnica.
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #4DB1F0;")
-                | Garantizar la constitución de la Mesa de Trabajo de Entornos Saludables.
+                | Garantizar la constitución de la mesa de trabajo de entornos saludables.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             figure.mt-4
               img(src='@/assets/curso/tema4/img16.svg' alt="Imagen decorativa")

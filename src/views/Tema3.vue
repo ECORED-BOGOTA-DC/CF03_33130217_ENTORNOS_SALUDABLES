@@ -16,7 +16,7 @@
 
       figure.mb-5(data-aos="zoom-in")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/S1TaxvnYWNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
         
     .row.justify-content-end.align-items-end.mb-5
@@ -126,7 +126,7 @@
     .row.justify-content-center.mb-5
       .col
         .titulo-sexto.color-primario(data-aos="fade-right")
-          h5 Figura 2
+          h5 Figura 2.
           span  Mapa conceptual sobre articulación de entornos
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema3/img07.svg' alt="Imagen decorativa")

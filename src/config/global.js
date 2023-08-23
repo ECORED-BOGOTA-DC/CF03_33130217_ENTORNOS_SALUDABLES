@@ -92,13 +92,8 @@ export default {
           },
           {
             numero: '4.3',
-            titulo: 'Análisis y resultados',
+            titulo: 'Análisis, resultados y acciones de mejora',
             hash: 't_4_3',
-          },
-          {
-            numero: '4.4',
-            titulo: 'Acciones de mejora',
-            hash: 't_4_4',
           },
         ],
       },
@@ -230,12 +225,6 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2016). Lineamientos nacionales de entornos.',
-      link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/lineamientos-entornos-nacionales-2016.pdf#:~:text=El%20Lineamiento%20Nacional%20de%20Entornos%20Saludables%20LNES%2C%20tiene,intervenci%C3%B3n%20de%20los%20determinantes%20sociales%20sanitarios%20y%20ambientales.',
-    },
-    {
-      referencia:
         'Ministerio de Salud y Protección Social. (2018). Estrategia de entorno educativo saludable.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/estrategia-entorno-educativo-2019.pdf',
@@ -254,7 +243,7 @@ export default {
     },
     {
       referencia:
-        'Organización Panamericana de Salud. (s .f.). Indicadores de Salud.',
+        'Organización Panamericana de Salud. (s. f.). Indicadores de Salud.',
       link:
         'https://www3.paho.org/hq/index.php?option=com_content&view=article&id=14411:health-indicators-conceptual-and-operational-considerations-section-4&Itemid=0&limitstart=1&lang=es',
     },
@@ -359,7 +348,7 @@ export default {
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Lina Marcela Pérez Manchego',
+          nombre: 'Leyson Fabián Castaño Pérez',
           cargo: 'Validación de recursos educativos digitales',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
