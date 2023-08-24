@@ -129,7 +129,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/33130217_CF03_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -155,7 +155,7 @@ export default {
     {
       tema: '4.2. Indicadores: fichas de indicadores',
       referencia:
-        'Organización Panamericana de la Salud y Organización Mundial de la Salud. (s. f.). Indicadores de salud.',
+        'Organización Panamericana de la Salud y Organización Mundial de la Salud. (s.f.). Indicadores de salud.',
       tipo: 'Artículo',
       link:
         'https://www3.paho.org/hq/index.php?option=com_content&view=article&id=14411:health-indicators-conceptual-and-operational-considerations-section-4&Itemid=0&limitstart=1&lang=es',
@@ -243,7 +243,7 @@ export default {
     },
     {
       referencia:
-        'Organización Panamericana de Salud. (s. f.). Indicadores de Salud.',
+        'Organización Panamericana de Salud. (s.f.). Indicadores de Salud.',
       link:
         'https://www3.paho.org/hq/index.php?option=com_content&view=article&id=14411:health-indicators-conceptual-and-operational-considerations-section-4&Itemid=0&limitstart=1&lang=es',
     },

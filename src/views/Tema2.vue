@@ -233,7 +233,7 @@
           h5 Figura 1.
           span Módulos de la encuesta
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/img09.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema2/img09.svg' alt="Imagen con un esquema que describe los módulos de la encuesta, los cuales son:<br>Módulos:<br>Planeación y desarrollo humano<br>Componentes y línea de acción:<br>Planeación escolar<br>Fortalecimiento de estrategia<br>Metas del desarrollo humano<br>Democracia escolar<br>Salud escolar<br>Ambientes escolares")
           figcaption Nota. <a style="font-weight: 400">MinSalud (2009).</a>
 
     p.mb-5 A continuación, se mencionan el uso de la aplicación de la herramienta y el personal recomendado para el diligenciamiento:

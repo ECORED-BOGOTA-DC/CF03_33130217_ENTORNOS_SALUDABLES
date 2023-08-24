@@ -41,7 +41,7 @@
           h5 Tabla 1.
           span Componentes de la operación de los entornos
         .tabla-a.color-secundario.mb-5 
-          table(data-aos="zoom-in"  alt="Texto alternativo tabla")
+          table(data-aos="zoom-in"  alt="Tabla que relaciona los componentes de la operación de los entornos.")
             caption Nota. <a style="font-weight: 400">MinSalud (2016).</a>
             thead
               tr

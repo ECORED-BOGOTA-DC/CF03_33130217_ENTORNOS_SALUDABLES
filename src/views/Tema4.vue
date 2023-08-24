@@ -213,7 +213,7 @@
         .titulo-sexto.color-primario(data-aos="fade-right")
           h5 Figura 3.
           span Esquema para la presentación de una acción orientada a mejorar las condiciones socioambientales y sanitarias de los entornos y prevenir su deterioro
-        table(data-aos="zoom-in"  alt="Texto alternativo tabla")
+        table(data-aos="zoom-in"  alt="Imagen que contiene un esquema sobre la representación de una acción de mejora, donde se incluye la siguiente información:<br>Nombre de la medidaJustificación de la medidaObjetivos de la medidaResultados esperados<br>Programación:Actividad 1Actividad 2Actividad 3....................Cronograma<br>Actividad:Actividad 1Actividad 2Actividad 3Mes:1 2 3 4 5 ...<br>Presupuesto e instituciones responsablesActividad:Actividad 1Actividad 2Actividad 3Pesos COLInstitución responsableMedición del éxitoComentarios adicionales")
           caption Nota. <a style="font-weight: 400">MinSalud (2009).</a>
           tbody
             tr
