@@ -213,104 +213,82 @@
         .titulo-sexto.color-primario(data-aos="fade-right")
           h5 Figura 3.
           span Esquema para la presentación de una acción orientada a mejorar las condiciones socioambientales y sanitarias de los entornos y prevenir su deterioro
-        table(data-aos="zoom-in"  alt="Imagen que contiene un esquema sobre la representación de una acción de mejora, donde se incluye la siguiente información:<br>Nombre de la medidaJustificación de la medidaObjetivos de la medidaResultados esperados<br>Programación:Actividad 1Actividad 2Actividad 3....................Cronograma<br>Actividad:Actividad 1Actividad 2Actividad 3Mes:1 2 3 4 5 ...<br>Presupuesto e instituciones responsablesActividad:Actividad 1Actividad 2Actividad 3Pesos COLInstitución responsableMedición del éxitoComentarios adicionales")
-          caption Nota. <a style="font-weight: 400">MinSalud (2009).</a>
-          tbody
-            tr
-              td(style="border: 2px solid #1969D5;" colspan="2")
-                p Nombre de la medida
-                p Justificación de la medida
-                p Objetivos de la medida
-                p.mb-0 Resultados esperados
-            tr
-              td(style="border: 2px solid #1969D5;" colspan="2")
-                p Programación
-                p.ms-5.ms-2 Actividad 1
-                p.ms-5.ms-2 Actividad 2
-                p.ms-5.ms-2 Actividad 3
-                p.ms-5 ………………….
-                p.mb-0 Cronograma
-            tr
-              th(style="border: 2px solid #1969D5; width: 60%;").text-center Actividad
-              th(style="border: 2px solid #1969D5; width: 40%;").text-center Mes
-            tr
-              th(style="border: 2px solid #1969D5;")
-              th(style="border: 2px solid #1969D5; padding: 0")
-                table
-                  tbody
-                    td(style="border-right: 2px solid #1969D5;").text-center 1
-                    td(style="border-right: 2px solid #1969D5;").text-center 2
-                    td(style="border-right: 2px solid #1969D5;").text-center 3
-                    td(style="border-right: 2px solid #1969D5;").text-center 4
-                    td(style="border-right: 2px solid #1969D5;").text-center 5
-                    td.text-center ...
-            tr
-              td(style="border: 2px solid #1969D5;").ms-5 Actividad 1
-              td(style="border: 2px solid #1969D5; padding: 0")
-                table
-                  tbody
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td.text-white 0
-            tr
-              td(style="border: 2px solid #1969D5;").ms-5 Actividad 2
-              td(style="border: 2px solid #1969D5; padding: 0")
-                table
-                  tbody
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td.text-white 0
-            tr
-              td(style="border: 2px solid #1969D5;").ms-5 Actividad 3
-              td(style="border: 2px solid #1969D5; padding: 0")
-                table
-                  tbody
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td.text-white 0
-            tr
-              th(style="border: 2px solid #1969D5;" colspan="2") Presupuesto e instituciones responsables
-            tr
-              td(style="border: 2px solid #1969D5;").ms-5 Actividad
-              td(style="border: 2px solid #1969D5; padding: 0")
-                table
-                  tbody
-                    td(style="border-right: 2px solid #1969D5;").text-center Pesos COL
-                    td.text-center Institución Responsable
-            tr
-              td(style="border: 2px solid #1969D5;").ms-5 Actividad 1
-              td(style="border: 2px solid #1969D5; padding: 0")
-                table
-                  tbody
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td.text-white 0
-            tr
-              td(style="border: 2px solid #1969D5;").ms-5 Actividad 2
-              td(style="border: 2px solid #1969D5; padding: 0")
-                table
-                  tbody
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td.text-white 0
-            tr
-              td(style="border: 2px solid #1969D5;").ms-5 Actividad 3
-              td(style="border: 2px solid #1969D5; padding: 0")
-                table
-                  tbody
-                    td(style="border-right: 2px solid #1969D5;").text-white 0
-                    td.text-white 0
-            tr
-              th(style="border: 2px solid #1969D5;" colspan="2")
-                p Medición del éxito
-                p.mb-0 Comentarios adicionales
+        .tabla-a.color-secundario
+          table(data-aos="zoom-in"  alt="Imagen que contiene un esquema sobre la representación de una acción de mejora, donde se incluye la siguiente información:<br>Nombre de la medidaJustificación de la medidaObjetivos de la medidaResultados esperados<br>Programación:Actividad 1Actividad 2Actividad 3....................Cronograma<br>Actividad:Actividad 1Actividad 2Actividad 3Mes:1 2 3 4 5 ...<br>Presupuesto e instituciones responsablesActividad:Actividad 1Actividad 2Actividad 3Pesos COLInstitución responsableMedición del éxitoComentarios adicionales")
+            caption Nota. <a style="font-weight: 400">MinSalud (2009).</a>
+            tbody
+              tr
+                td(style="border: 2px solid #1969D5;" colspan="14")
+                  p Nombre de la medida
+                  p Justificación de la medida
+                  p Objetivos de la medida
+                  p.mb-0 Resultados esperados
+              tr
+                td(style="border: 2px solid #1969D5;" colspan="14")
+                  p Programación
+                  p.ms-5.ms-2 Actividad 1
+                  p.ms-5.ms-2 Actividad 2
+                  p.ms-5.ms-2 Actividad 3
+                  p.ms-5 ………………….
+                  p.mb-0 Cronograma
+              tr
+                th(style="border: 2px solid #1969D5;" colspan="8").text-center Actividad
+                th(style="border: 2px solid #1969D5;" colspan="6").text-center Mes
+              tr
+                th(style="border: 2px solid #1969D5;" colspan="8")
+                td(style="border: 2px solid #1969D5;").text-center 1
+                td(style="border: 2px solid #1969D5;").text-center 2
+                td(style="border: 2px solid #1969D5;").text-center 3
+                td(style="border: 2px solid #1969D5;").text-center 4
+                td(style="border: 2px solid #1969D5;").text-center 5
+                td(style="border: 2px solid #1969D5;").text-center ...
+              
+              tr
+                td(style="border: 2px solid #1969D5;" colspan="8").ms-5 Actividad 1
+                td(style="border: 2px solid #1969D5;").text-white 0
+                td(style="border: 2px solid #1969D5;").text-white 0
+                td(style="border: 2px solid #1969D5;").text-white 0
+                td(style="border: 2px solid #1969D5;").text-white 0
+                td(style="border: 2px solid #1969D5;").text-white 0
+                td(style="border: 2px solid #1969D5;").text-white 0
+              tr
+                td(style="border: 2px solid #1969D5;" colspan="8").ms-5 Actividad 2
+                td(style="border: 2px solid #1969D5;").text-white 0
+                td(style="border: 2px solid #1969D5;").text-white 0
+                td(style="border: 2px solid #1969D5;").text-white 0
+                td(style="border: 2px solid #1969D5;").text-white 0
+                td(style="border: 2px solid #1969D5;").text-white 0
+                td(style="border: 2px solid #1969D5;").text-white 0
+              tr
+                td(style="border: 2px solid #1969D5;" colspan="8").ms-5 Actividad 3
+                td(style="border: 2px solid #1969D5;").text-white 0
+                td(style="border: 2px solid #1969D5;").text-white 0
+                td(style="border: 2px solid #1969D5;").text-white 0
+                td(style="border: 2px solid #1969D5;").text-white 0
+                td(style="border: 2px solid #1969D5;").text-white 0
+                td(style="border: 2px solid #1969D5;").text-white 0
+              tr
+                th(style="border: 2px solid #1969D5;" colspan="14") Presupuesto e instituciones responsables
+              tr
+                td(style="border: 2px solid #1969D5;" colspan="8").ms-5 Actividad
+                td(style="border: 2px solid #1969D5;" colspan="3").text-center Pesos COL
+                td(style="border: 2px solid #1969D5;" colspan="3").text-center Institución Responsable
+              tr
+                td(style="border: 2px solid #1969D5;" colspan="8").ms-5 Actividad 1
+                td(style="border: 2px solid #1969D5;" colspan="3").text-white 0
+                td(style="border: 2px solid #1969D5;" colspan="3").text-white 0
+              tr
+                td(style="border: 2px solid #1969D5;" colspan="8").ms-5 Actividad 2
+                td(style="border: 2px solid #1969D5;" colspan="3").text-white 0
+                td(style="border: 2px solid #1969D5;" colspan="3").text-white 0
+              tr
+                td(style="border: 2px solid #1969D5;" colspan="8").ms-5 Actividad 3
+                td(style="border: 2px solid #1969D5;" colspan="3").text-white 0
+                td(style="border: 2px solid #1969D5;" colspan="3").text-white 0
+              tr
+                th(style="border: 2px solid #1969D5;" colspan="14")
+                  p Medición del éxito
+                  p.mb-0 Comentarios adicionales
 
     p.mb-5 Las acciones de mejora son aplicadas teniendo en cuenta los entornos como vivienda, escuela y lugar de trabajo, deben tener en cuenta ciertas disposiciones, para que estas acciones puedan ser implementadas gradualmente, siempre llevando el lineamiento de las actividades y directrices que rigen en Colombia. Algunas disposiciones se presentan a continuación:
 
