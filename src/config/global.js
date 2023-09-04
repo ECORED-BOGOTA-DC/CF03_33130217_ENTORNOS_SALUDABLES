@@ -254,7 +254,7 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizábal Gutiérrez',
-          cargo: 'Responsable del equipo',
+          cargo: 'Líder del Ecosistema',
           centro: 'Dirección General',
         },
         {
