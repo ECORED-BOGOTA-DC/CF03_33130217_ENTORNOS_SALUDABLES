@@ -147,7 +147,7 @@ export default {
     {
       tema: '2. Herramientas para la implementación',
       referencia:
-        'Ministerio de la Protección Social, Ministerio de Educación Nacional, Ministerio del Medio Ambiente y Desarrollo Territorial, Agencia Presidencial para la Acción Social y la Cooperación Internacional, Departamento Nacional de Planeación, Ministerio de Agricultura y Organización Panamericana de la Salud. (2009). Manual de gestión territorial de las estrategias de entornos saludables.',
+        'Ministerio de la Protección Social, Ministerio de Educación Nacional, Ministerio del Medio Ambiente y Desarrollo Territorial, Agencia Presidencial para la Acción Social y la Cooperación Internacional, Departamento Nacional de Planeación, Ministerio de Agricultura y Organización Panamericana de la Salud. (2009). Manual de gestión territorial. Estrategias de entornos saludables.',
       tipo: 'PDF',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/manual-de-gestion-territorial-de-la-ees.pdf',
@@ -155,7 +155,7 @@ export default {
     {
       tema: '4.2. Indicadores: fichas de indicadores',
       referencia:
-        'Organización Panamericana de la Salud y Organización Mundial de la Salud. (s.f.). Indicadores de salud.',
+        'Organización Panamericana de la Salud y Organización Mundial de la Salud. (s.f.). Indicadores de salud: aspectos conceptuales y operativos (Sección 4).',
       tipo: 'Artículo',
       link:
         'https://www3.paho.org/hq/index.php?option=com_content&view=article&id=14411:health-indicators-conceptual-and-operational-considerations-section-4&Itemid=0&limitstart=1&lang=es',
@@ -243,7 +243,7 @@ export default {
     },
     {
       referencia:
-        'Organización Panamericana de Salud. (s.f.). Indicadores de Salud.',
+        'Organización Panamericana de Salud. (s.f.). Indicadores de Salud. Aspectos conceptuales y operativos (Sección 4).',
       link:
         'https://www3.paho.org/hq/index.php?option=com_content&view=article&id=14411:health-indicators-conceptual-and-operational-considerations-section-4&Itemid=0&limitstart=1&lang=es',
     },

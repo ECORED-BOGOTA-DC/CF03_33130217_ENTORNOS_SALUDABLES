@@ -104,6 +104,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-1 Indicadores de salud
+                  h5.mb-1 Aspectos conceptuales y operativos
                   p.mb-0 En el siguiente enlace, se encuentra toda la información relacionada con los indicadores de salud, sus aspectos conceptuales y operativos dispuestos por la Organización Panamericana de la Salud:
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://www3.paho.org/hq/index.php?option=com_content&view=article&id=14405" target="_blank")

@@ -143,7 +143,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Componentes de los entornos saludables2
+                  h4.mb-1 Componentes de los entornos saludables
                   p.mb-0 En el video “Componentes de los entornos saludables”, se describen cada uno de los componentes de manera concreta, con sus principales características:
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://youtu.be/gknpxVuqG3I" target="_blank")
